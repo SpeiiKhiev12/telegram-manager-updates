@@ -2,7 +2,7 @@
   "enabled": true,
   "message": "Test01!",
   "color": "#1976D2",
-  "link": "https://drive.google.com/file/d/1InHVlR4844Qe_FUbaIdt8M1Mx9aFCXgN/view?usp=sharing",
+  "link": "https://drive.usercontent.google.com/download?id=1InHVlR4844Qe_FUbaIdt8M1Mx9aFCXgN&export=download&authuser=0",
   "date": "2025-03-04",
   "for_versions_below": "V1.0.2"
 }
