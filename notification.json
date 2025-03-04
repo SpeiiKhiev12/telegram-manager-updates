@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "version": "1.0.1",
-  "message": "Just For Test Only Guys!",
+  "message": "Just for test only!",
   "color": "#1976D2",
-  "link": "https://t.me/SpeiiKhiev_Dev/5",
-  "date": "2025-03-04"
+  "link": "https://speiikhiev12.github.io/download",
+  "date": "2025-03-04",
+  "for_versions_below": "V1.0.2"
 }
